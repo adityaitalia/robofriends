@@ -59,4 +59,4 @@
     username: 'Moriah.Stanton',
     email: 'padberg@karina.biz'
   }
-];
+]
