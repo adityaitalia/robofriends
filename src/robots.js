@@ -1,4 +1,4 @@
- [
+export const robots = [
   {
     id: 1,
     name: 'Aditya Italia',
@@ -59,4 +59,4 @@
     username: 'Moriah.Stanton',
     email: 'padberg@karina.biz'
   }
-]
+];
